@@ -1,0 +1,230 @@
+#wrapper{
+    width: 886px;
+    background-color: #062134;
+    margin: 0px auto;
+    padding: 15px;
+    height: auto;
+   }
+
+.header{
+    font-family: Arial, sans-serif;
+}
+
+#name{
+    display: inline-block;
+    color: white;
+    font-size: 20pt;
+}
+#consulting{
+    color: #1a95e2;
+}
+
+#home{
+    display: inline-block;
+    background: #062134;
+    border: none;
+    padding-left: 80px;
+    color: #31658b;
+    font-size: 15pt;
+}
+
+#about{
+    display: inline-block;
+    background: #062134;
+    border: none;
+    padding-left:40px;
+    color: white;
+    font-size: 15pt;
+}
+
+#services{
+    display: inline-block;
+    background: #062134;
+    border: none;
+    padding-left:40px;
+    color: white;
+    font-size: 15pt;
+}
+#projects{
+    display: inline-block;
+    background: #062134;
+    border: none;
+    padding-left:40px;
+    color: white;
+    font-size: 15pt;
+}
+
+#clients{
+    display: inline-block;
+    background: #062134;
+    border: none;
+    padding-left:40px;
+    color: white;
+    font-size: 15pt;
+}
+
+#white_wrapper{
+    width: auto;
+    background: white;
+    margin: 0px;
+    padding: 20px;
+}
+
+#main_image{
+    max-width: 100%;
+    border: white 20px;
+    margin-bottom: 20px;
+}
+
+#service_box{
+    width: 266px;
+    height: 250px;
+    margin-right: 20px;
+    display: inline-block;
+    background-color: #1468a8;
+}
+
+#project_box{
+    width: 266px;
+    height: 250px;
+    margin-right: 20px;
+    display: inline-block;
+    background-color: #1468a8;
+}
+
+#client_box{
+    width: 266px;
+    height: 250px;
+    display: inline-block;
+    background-color: #1468a8;
+}
+
+#icon_one{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin: 10px;
+    margin-right: 0px;
+}
+
+#icon_two{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin: 10px;
+    margin-right: 0px;
+}
+
+#icon_three{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin: 10px;
+    margin-right: 0px;
+}
+
+h2{
+    font-size: 25pt;
+    font-family: Arial, sans-serif;
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 10pt;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 10px;
+    margin-top: 0px;
+}
+
+.buttons{
+    font-size: 12pt;
+    font-family: Arial, sans-serif;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    background-color: #45abec;
+    color: white;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+#world{
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    display: inline-block;
+    padding-right: 308px;
+}
+
+#testimonial{
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+    display: inline-block;
+}
+
+#building{
+    display: inline-block;
+    width: 266px;
+    vertical-align: top;
+}
+
+#filler{
+    width: 266px;
+    height: 142px;
+    display: inline-block;
+    background-color: white;
+    margin-left: 20px;
+}
+
+#goal{
+    font-family: Arial, sans-serif;
+    font-size: 8pt;
+    color: black;
+}
+
+#learn_button{
+    background-color: white;
+    color: #5988aa;
+    border: none;
+}
+
+#testimonial_fill{
+    width: 266px;
+    height: 142px;
+    display: inline-block;
+    background-color: white;
+    margin-left: 20px;
+}
+
+#testimonial_input{
+    width: 266px;
+    height: 142px;
+    font-family: Arial, sans-serif;
+    background-color: #daedff;
+    text-align: center;
+}
+
+#footer{
+    width: auto;
+    height: 50px;
+    background-color: #daedff;
+    margin: 0px;
+    margin-top: 2px;
+    text-align: center;
+}
+
+.footer_button{
+    font-size: 12pt;
+    font-family: Arial, sans-serif;
+    background: none;
+    border: none;
+    vertical-align: middle;
+    line-height: 50px;
+    margin-left: 10px;
+    color: #5285aa;
+}
